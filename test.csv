@@ -1,0 +1,13 @@
+usergroup,subgroup
+CC,UG-IR
+NT,NT_Wk
+NT,UG-Pr
+NT_Ad,NT_Wk
+NT_Ad,UG-IR
+NT_Wk,UG-IR
+NT_Zp,NT_Wk
+NT_Zp,UG-Pr
+NgtB,UG-Ngt
+UG-IR,UG-Pr
+UG-Pr,UG-Ngt
+UG-Pr,MynkB
